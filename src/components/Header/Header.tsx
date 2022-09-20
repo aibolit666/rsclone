@@ -116,5 +116,6 @@ const Header = () => {
     </div>
   );
 };
+
 export { searchResults, searchWord };
 export default Header;

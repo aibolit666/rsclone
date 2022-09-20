@@ -39,4 +39,3 @@ export const MovieRatingSet = () => {
 		</div>
 	)
 }
-
